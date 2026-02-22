@@ -1,5 +1,5 @@
 # Cloud-Security-Learning
-Learning project & experiments in Cloud Security and DevSecOps
+
 I’m a Junior Digital Transformation Coordinator with a background in System & Network Administration.  
 I’m currently building my expertise in **Cloud Security** and plan to expand into **DevSecOps**.
 
